@@ -1,0 +1,48 @@
+7
+Business and Engineering - 6
+Càlcul - 10
+Disseny i usabilitat I - 5 
+Electrònica bàsica - 12 
+Introducció als ordinadors - 9
+Metodologia i tecnologia de la programació - 10
+Àlgebra - 8
+9
+Disseny i programació orientats a objectes - 6
+Electrònica analògica - 8
+Estadística i anàlisi matemàtica - 8
+Física - 6
+Senyals i sistemes de transmissió - 6
+Sistemes digitals i microprocessadors - 9
+Value Chain and Financial Economics - 6
+Televisió digital I - 4
+Teoria de Circuits - 4
+13
+Laboratori de comunicacions - 4
+Laboratori de mesures electròniques - 6
+Xarxes d'àrea local - 6
+Infraestructures elèctriques i de telecomunicacions - 4
+Organizational Management - 3
+Processament digital del senyal - 4
+Propagació electromagnètica - 4
+Sistemes operatius - 5
+Circuits de microones - 4
+Comunicacions digitals - 4
+Project Management - 3
+Tecnologies de RF - 5
+Tecnologies en Perifèrics - 4
+13
+Antenes - 3
+Compatibilitat electromagnètica - 3
+Comunicacions per a canals hostils - 3
+Comunicacions òptiques - 4
+Entrepreneurship and innovation - 3
+Interconnexió de xarxes de dades - 4
+Mercat i serveis de telecomunicació  - 1
+Pràctiques externes - 4
+Corporate social responsibility - 3
+Software ràdio - 3
+Tendències tecnològiques - 4
+Treball Final de Grau - 16
+Xarxes sense fils - 4
+80
+Animació I - 5 Llenguatge Audiovisual - 5 Producció de vídeo i àudio - 4 Producció multimèdia I - 4 Producció multimèdia II - 6 Programació avançada i estructura de dades - 8 Projectes de programació - 6 Sensors - 4 Tecnologies de xarxes d'ordinadors - 6 Teoria i laboratori d'enginyeria acústica I - 6 Teoria i laboratori d'enginyeria acústica II - 6 Bases de dades - 5 Videojocs - 6 Acústica arquitectònica - 4 Administració i disseny de sistemes - 6 Animació II - 4 Arquitectura de computadors - 5 Automàtica i domòtica - 6 Col·laboració departamental I - 4 Col·laboració departamental V - 4 Comptabilitat - 6 Dramatúrgia Audiovisual - 3 Col·laboració departamental IX - 16 Electrònica de potència - 4 Enregistrament de vídeo - 2 Finances - 6 Fonaments de TX de TV - 2 Gestió de Màrqueting - 4 Gestió i planificació de xarxes - 2 Gràfics I - 5 Metodologia del software - 4 Microeconomia - 4 Mineria de dades - 5 Col·laboració departamental VII - 8 Màrqueting - 4 Negoci internacional - 5 Processament d'àudio i parla - 4 Programació hipermèdia - 5 Projectes Client/Servidor - 8 Projectes en arquitectura distribuïda - 4 Pràctiques externes II - 4 Pràctiques externes III - 4 Sistemes d'informació - 4 Televisió interactiva - 2 Col·laboració departamental VIII - 16 Vendes - 4 Vídeo digital - 3 Avenços en informàtica - 3 Col·laboració departamental II - 4 Col·laboració departamental III - 4 Col·laboració departamental IV - 4 Col·laboració departamental VI - 4 Control i robòtica - 5 Desenvolupament de nous productes - 4 Direcció d'Equips i Organitzacions - 4 Disseny i usabilitat II - 5 Direcció de projectes - 6 Edició musical - 4 Equipament de vídeo - 3 Estratègia de negocis - 3 Fotografia digital - 3 Gràfics II - 5 Història Audiovisual - 2 Llenguatges de programació - 6 Macroeconomia - 4 Microelectrònica - 3 Distribució i comercialització - 7 Mètodes i eines de decisió - 4 Processament digital de la imatge - 4 Projectes web - 5 Realitat virtual - 6 Seguretat en les TIC - 4 Sistemes basats en el coneixement - 4 Sistemes electrònics configurables - 3 Sistemes operatius avançats - 4 TV digital II - 2 Visualització de Vídeo - 4 Fonaments d'acústica i àudio - 6 Xarxes de banda ampla de nova generació - 3 Laboratori de telemàtica - 6 
